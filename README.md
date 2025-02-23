@@ -17,6 +17,11 @@ This project is a **full-stack application** that retrieves and displays media r
 - **Interactive frontend (React + Material UI)** for a seamless user experience.  
 - **Error handling & logging** for robustness and maintainability.  
 
+
+![FrontEnd](assets/FrontEnd.png)
+![BackEnd](assets/BackEnd.png)
+
+
 ---
 
 ## 🏗️ Tech Stack
